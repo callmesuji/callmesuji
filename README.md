@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sujith</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmesuji&label=Profile%20views&color=0e75b6&style=flat" alt="callmesuji" /> </p>
 
@@ -10,5 +10,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=callmesuji&show_icons=true&locale=en&layout=compact" alt="callmesuji" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=callmesuji&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=callmesuji&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
 
