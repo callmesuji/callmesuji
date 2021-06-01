@@ -10,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=callmesuji&show_icons=true&locale=en&layout=compact" alt="callmesuji" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callmesuji&show_icons=true&locale=en" alt="callmesuji" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=callmesuji&show_icons=true&locale=en" alt="callmesuji" /></p>
